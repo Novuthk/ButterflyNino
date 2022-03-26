@@ -29,13 +29,6 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 #### Download
 Source|Link|
 |---|---|
-|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/BeasttrollMCs.Skin.v1.1.osk)|
-|MediaFire|[Go to MediaFire](https://www.mediafire.com/file/wfr5hvmi25rropi/BeasttrollMC%2527s_Skin_v1.1.osk/file)|
+|MediaFire|[Go to MediaFire](https://www.mediafire.com/folder/5iehq0kyv20c1/ButterflyNino)|
 
 ___
-
-
-
-
-
-# [-              -](https://www.mediafire.com/folder/5iehq0kyv20c1/ButterflyNino)
