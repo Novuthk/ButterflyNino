@@ -25,7 +25,20 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 <details>
 <summary>ButterflyNino Pause & Fail Screen</summary>
 <img src="https://i.imgur.com/fitdLdF.png" title="Screen Pause">
-<img src="https://i.imgur.com/WccpqNh.png" title="Gameplay circles">
+<img src="https://i.imgur.com/bfjLbo3.png" title="Screen Fail">
+</details>
+
+<details>
+<summary>ButterflyNino Skip & Section Screen</summary>
+<img src="https://i.imgur.com/f2wYR1Z.png" title="Screen Skip">
+<img src="https://i.imgur.com/XqZahKx.png" title="Screen Pass">
+<img src="https://i.imgur.com/tq63asq.png" title="Screen Fail">
+</details>
+
+<details>
+<summary>ButterflyNino Ranking Panel</summary>
+<img src="https://i.imgur.com/aDvlpC4.png" title="Screen Skip">
+<img src="https://i.imgur.com/f90Z9f9.png" title="Screen Pass">
 </details>
 
 ### Links
