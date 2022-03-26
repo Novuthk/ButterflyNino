@@ -10,10 +10,10 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 
 <details>
 <summary>ButterflyNino Menu</summary>
-<img src="https://i.imgur.com/4NQemaH.png" title="Menu Background" alt="Skin screenshot of menu background">
-<img src="https://i.imgur.com/nanq9lE.png" title="Song Select" alt="Skin screenshot of song select">
-<img src="https://i.imgur.com/sCiCMO8.png" title="Select Modes" alt="Skin screenshot of mod icons">
-<img src="https://i.imgur.com/d9lhWCY.png" title="Mod Icons" alt="Skin screenshot of mod icons">
+<img src="https://i.imgur.com/4NQemaH.png" title="Menu Background">
+<img src="https://i.imgur.com/nanq9lE.png" title="Song Select">
+<img src="https://i.imgur.com/sCiCMO8.png" title="Select Modes">
+<img src="https://i.imgur.com/d9lhWCY.png" title="Mod Icons">
 </details>
 
 <details>
