@@ -1,6 +1,8 @@
 ## 《 Novu 》  « ButterflyNino »
 Credit: [Novu](https://osu.ppy.sh/users/17561095)
 
+![]( https://i.imgur.com/SZE2RVy.png )
+
 ### Screenshots (click to expand)
 <a href="https://youtu.be/YZAfXbyhOYI" target="_blank">
  Video preview
