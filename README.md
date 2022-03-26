@@ -12,13 +12,14 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 <summary>ButterflyNino Menu</summary>
 <img src="https://i.imgur.com/4NQemaH.png" title="Menu Background" alt="Skin screenshot of menu background">
 <img src="https://i.imgur.com/nanq9lE.png" title="Song Select" alt="Skin screenshot of song select">
- <img src="https://i.imgur.com/sCiCMO8.png" title="Select Modes" alt="Skin screenshot of mod icons">
+<img src="https://i.imgur.com/sCiCMO8.png" title="Select Modes" alt="Skin screenshot of mod icons">
 <img src="https://i.imgur.com/d9lhWCY.png" title="Mod Icons" alt="Skin screenshot of mod icons">
 </details>
 
 <details>
-<summary>DTMC (DT)</summary>
-<p1>(lol i don't have screenshots yet, but imagine that all the notes are pure white instead)</p1>
+<summary>ButterflyNino Gameplay</summary>
+<img src="https://i.imgur.com/N5lKWXl.png" title="Gameplay circles" alt="Skin screenshot of gameplay circles">
+<img src="https://i.imgur.com/WccpqNh.png" title="Gameplay circles" alt="Skin screenshot of Gameplay circles">
 </details>
 
 <details>
