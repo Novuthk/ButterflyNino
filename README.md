@@ -1,11 +1,11 @@
 # [-       《 E 》    « ButterflyNino »       -](https://www.mediafire.com/folder/5iehq0kyv20c1/ButterflyNino)
 ![]( https://i.imgur.com/4NQemaH.png )
 
-# [ Skin Information ]
-# [ Name : Marine Summer by EiideN
+#  Skin Information
+**Name : Marine Summer by EiideN
 Aspect ratio : 16:9
 Animations : Yes
-Available modes : STD]
+Available modes : STD**
 
 ![]( https://i.imgur.com/nanq9lE.png )
 ![]( https://i.imgur.com/d9lhWCY.png )
