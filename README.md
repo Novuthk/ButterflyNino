@@ -9,6 +9,5 @@ Available modes : STD**
 
 ![]( https://i.imgur.com/nanq9lE.png )
 ![]( https://i.imgur.com/d9lhWCY.png )
-![]( https://i.imgur.com/WccpqNh.png )
+![]( https://i.imgur.com/sCiCMO8.png )
 ![]( https://i.imgur.com/aDvlpC4.png )
-# [-       《 E 》    « Radhe V1.0 - LITE »       -]
