@@ -18,13 +18,14 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 
 <details>
 <summary>ButterflyNino Gameplay</summary>
-<img src="https://i.imgur.com/N5lKWXl.png" title="Gameplay circles" alt="Skin screenshot of gameplay circles">
-<img src="https://i.imgur.com/WccpqNh.png" title="Gameplay circles" alt="Skin screenshot of Gameplay circles">
+<img src="https://i.imgur.com/N5lKWXl.png" title="Gameplay circles">
+<img src="https://i.imgur.com/WccpqNh.png" title="Gameplay circles">
 </details>
 
 <details>
-<summary>BTMC (AMOGUS)</summary>
-<p1>(no screenshots, but standard skin with pink Among Us cursor)</p1>
+<summary>ButterflyNino Pause & Fail Screen</summary>
+<img src="https://i.imgur.com/fitdLdF.png" title="Screen Pause">
+<img src="https://i.imgur.com/WccpqNh.png" title="Gameplay circles">
 </details>
 
 ### Links
