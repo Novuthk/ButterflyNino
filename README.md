@@ -1,9 +1,6 @@
 # [-       《 E 》    « ButterflyNino »       -](https://www.mediafire.com/folder/5iehq0kyv20c1/ButterflyNino)
 ![]( https://i.imgur.com/4NQemaH.png )
 
-#  Video 
-https://youtu.be/YZAfXbyhOYI
-
 # Menu
 ![]( https://i.imgur.com/nanq9lE.png )
 ![]( https://i.imgur.com/sCiCMO8.png )
