@@ -37,11 +37,9 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 
 <details>
 <summary>ButterflyNino Ranking Panel</summary>
-<img src="https://i.imgur.com/aDvlpC4.png" title="Screen Skip">
-<img src="https://i.imgur.com/f90Z9f9.png" title="Screen Pass">
+<img src="https://i.imgur.com/aDvlpC4.png" title="Ranking Panel">
+<img src="https://i.imgur.com/f90Z9f9.png" title="Ranking Panel">
 </details>
-
-### Links
 
 #### Download
 Source|Link|
